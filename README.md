@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Riding Heroes](https://github.com/mrana17/Riding-Heroes)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, TypeScript, React, MongoDB, PHP, MS SQL (T-SQL)**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, TypeScript, React, MongoDB, PHP, MS SQL (T-SQL), MySQL**
 
 - 💬 Ask me about **anything**
 
